@@ -1,0 +1,5 @@
+<discord_url>https://discordapp.com/api/v6/channels/GUILD-ID/messages?limit=1<discord_url>
+<token>tokenul  contului care asculta chat-ul<token>
+<phpssid>sesiunea din panelul OG-Times<phpssid>
+<administratorID>id-ul contului tau<administratorID>
+<webhook>aici pui webhookul<webhook>
